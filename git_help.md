@@ -69,4 +69,8 @@
         <td>git reset</td>
         <td>Сброс текущий HEAD в указанное состояние</td>
     </tr>
+    <tr> 
+        <td>git switch</td>
+        <td>Переключение ветки</td>
+    </tr>
 </table>
