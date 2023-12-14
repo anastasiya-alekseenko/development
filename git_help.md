@@ -101,4 +101,8 @@
         <td>git checkout <...></td>
         <td>Переход по версиям, которые были закоммичены</td>
     </tr>
+    <tr> 
+        <td>git checkout master</td>
+        <td>Переход на гланую ветку</td>
+    </tr>
 </table>
